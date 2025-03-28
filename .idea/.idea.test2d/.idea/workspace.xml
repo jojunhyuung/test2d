@@ -4,12 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="17148a67-ca9d-4409-b415-bc97a2180c8d" name="Changes" comment="" />
+=======
+    <list default="true" id="17148a67-ca9d-4409-b415-bc97a2180c8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Icons/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Icons/Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Icons/DemoSettings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Icons/DemoSettings.lighting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Icons/DemoSettings.lighting.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Icons/DemoSettings.lighting.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
+>>>>>>> main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
@@ -31,6 +42,26 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jojunhyuung"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jojunhyuung/test2d.git",
+    "accountId": "0364bc1d-0c03-4e64-95d7-3740bb3e01f0"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+>>>>>>> main
   <component name="ProjectId" id="2uvY93CngzAhNDFKDr4h3JEwIcL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +72,11 @@
     "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "test1",
+=======
+    "git-widget-placeholder": "test2",
+>>>>>>> main
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +115,7 @@
       </option>
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -87,6 +123,17 @@
       <option name="projectPathOnTarget" />
       <option name="runtimes">
         <list />
+=======
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="38932">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="38932" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list>
+          <MonoRuntime />
+        </list>
+>>>>>>> main
       </option>
       <option name="selectedOptions">
         <list />
