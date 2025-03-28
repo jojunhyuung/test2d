@@ -10,6 +10,7 @@ public class TESTGithub : MonoBehaviour
     public float Test3 = 5.0f;
     public float Test4 = 5.0f;
     public float ppp;
+    public float ppp2;
     public float sum;
 
     public void test()
